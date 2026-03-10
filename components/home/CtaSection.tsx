@@ -1,5 +1,5 @@
 export default function CtaSection() {
-  const bg = 'https://image.pollinations.ai/prompt/peaceful%20japanese%20clinic%20reception%20warm%20light%20plants%20welcoming%20interior%20soft?width=1600&height=800&nologo=true'
+  const bg = 'https://picsum.photos/seed/karada-cta/1600/800'
 
   return (
     <section id="cta" className="relative py-32 overflow-hidden">

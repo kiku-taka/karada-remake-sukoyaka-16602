@@ -1,5 +1,5 @@
 export default function DirectorMessage() {
-  const portrait = 'https://image.pollinations.ai/prompt/japanese%20male%20chiropractor%20doctor%20white%20coat%20warm%20smile%20professional%20portrait%20clinic?width=600&height=700&nologo=true'
+  const portrait = 'https://picsum.photos/seed/karada-director/600/700'
 
   return (
     <section className="py-24 bg-white">

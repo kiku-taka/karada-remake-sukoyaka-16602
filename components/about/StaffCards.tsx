@@ -4,7 +4,7 @@ const staff = [
     role: '院長',
     license: '柔道整復師',
     specialty: '慢性腰痛、姿勢改善、スポーツ障害',
-    img: 'https://image.pollinations.ai/prompt/japanese%20male%20chiropractor%20white%20coat%20professional%20portrait%20warm%20smile%20clinic?width=400&height=500&nologo=true',
+    img: 'https://picsum.photos/seed/karada-staff1/400/500',
     message: '患者様の「諦めかけていた痛み」が改善したときの笑顔が、私の原動力です。データと経験を融合させた施術で、あなたの体の可能性を引き出します。',
   },
   {
@@ -12,7 +12,7 @@ const staff = [
     role: 'シニアセラピスト',
     license: '鍼灸師',
     specialty: '産後骨盤ケア、肩こり、自律神経調整',
-    img: 'https://image.pollinations.ai/prompt/japanese%20female%20acupuncturist%20therapist%20white%20coat%20gentle%20smile%20professional%20clinic?width=400&height=500&nologo=true',
+    img: 'https://picsum.photos/seed/karada-staff2/400/500',
     message: '女性特有のお悩みに寄り添い、妊娠中・産後のデリケートな体も安心して任せていただける施術を提供します。一緒に体を取り戻しましょう。',
   },
   {
@@ -20,7 +20,7 @@ const staff = [
     role: 'セラピスト',
     license: '柔道整復師',
     specialty: '猫背矯正、全身バランス調整、セルフケア指導',
-    img: 'https://image.pollinations.ai/prompt/japanese%20young%20male%20therapist%20white%20coat%20energetic%20friendly%20smile%20professional?width=400&height=500&nologo=true',
+    img: 'https://picsum.photos/seed/karada-staff3/400/500',
     message: '施術だけでなく、お客様自身が体を管理できるようになることが目標です。一緒に「再発しない体」を作り上げましょう！',
   },
 ]

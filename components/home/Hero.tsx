@@ -1,5 +1,5 @@
 export default function Hero() {
-  const bg = 'https://image.pollinations.ai/prompt/japanese%20chiropractic%20clinic%20interior%20healing%20spa%20warm%20light%20wood%20private%20room%20zen%20calm?width=1920&height=1080&nologo=true'
+  const bg = 'https://picsum.photos/seed/karada-hero/1920/1080'
 
   return (
     <section className="relative min-h-screen flex items-center justify-center overflow-hidden">
