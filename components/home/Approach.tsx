@@ -1,5 +1,5 @@
 export default function Approach() {
-  const img = 'https://picsum.photos/seed/karada-approach/800/600'
+  const img = 'https://image.pollinations.ai/prompt/chiropractor%20examining%20spine%20professional%20dramatic%20light%20skilled%20hands%20treatment%20japanese%20clinic?width=512&height=384&model=flux'
 
   return (
     <section className="py-24 bg-[#2E5C50] relative overflow-hidden">

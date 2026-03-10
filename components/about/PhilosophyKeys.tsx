@@ -3,19 +3,19 @@ const keys = [
     num: '01',
     title: "徹底的な「姿勢分析」と「可動域評価」",
     desc: '最新のAI姿勢分析システムと熟練した触診技術で、お客様の骨格の歪み、筋肉のアンバランス、関節の可動域制限をミリ単位で詳細に把握します。目に見えるデータと身体感覚の両面から、不調の根源を特定します。',
-    img: 'https://picsum.photos/seed/karada-key1/600/400',
+    img: 'https://image.pollinations.ai/prompt/AI%20body%20posture%20analysis%20medical%20technology%20digital%20screen%20body%20outline%20professional?width=512&height=341&model=flux',
   },
   {
     num: '02',
     title: '「骨格・筋肉・神経」の三位一体アプローチ',
     desc: '骨格の歪みは筋肉の緊張を生み、それが神経伝達に影響を与え、痛みや不調として現れます。当院では三つの要素を連動させ、手技による骨格矯正、深層筋へのアプローチ、神経系のリバランスを同時に行うことで、体全体の協調性を取り戻します。',
-    img: 'https://picsum.photos/seed/karada-key2/600/400',
+    img: 'https://image.pollinations.ai/prompt/human%20skeleton%20muscle%20nerve%20system%20anatomy%20illustration%20medical%20art%20holistic%20healing?width=512&height=341&model=flux',
   },
   {
     num: '03',
     title: '「日常生活習慣」と「セルフケア」の最適化',
     desc: '施術で体を整えることはもちろん重要ですが、日々の生活習慣がその効果を左右します。お客様のライフスタイルに合わせたセルフケア、栄養、睡眠、ストレスマネジメントのアドバイスを具体的に提供。お客様自身が主体的に健康を維持できる力を養います。',
-    img: 'https://picsum.photos/seed/karada-key3/600/400',
+    img: 'https://image.pollinations.ai/prompt/healthy%20lifestyle%20stretching%20morning%20routine%20yoga%20wellness%20self%20care%20calm%20japanese?width=512&height=341&model=flux',
   },
 ]
 

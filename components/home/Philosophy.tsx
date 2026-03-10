@@ -1,5 +1,5 @@
 export default function Philosophy() {
-  const img = 'https://picsum.photos/seed/karada-consult/800/600'
+  const img = 'https://image.pollinations.ai/prompt/japanese%20chiropractor%20gentle%20consultation%20warm%20smiling%20professional%20clinic%20room?width=512&height=384&model=flux'
 
   return (
     <section className="py-24 bg-white">
